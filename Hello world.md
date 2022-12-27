@@ -38,6 +38,9 @@
 
 ## Ссылки
 
+Для того чтобы вставить ссылку необходимо в квадратных скобках прописать текст который будет отображать ссыку , а в круглых скобках прописать саму ссылку
+[Это Эльбрус](https://yandex.ru/images/search?text=фотография%20горы%20эльбрус&from=tabbar&pos=14&img_url=http%3A%2F%2Fvsegda-pomnim.com%2Fuploads%2Fposts%2F2022-03%2F1647546709_46-vsegda-pomnim-com-p-vulkan-elbrus-foto-51.jpg&rpt=simage&lr=21621)
+
 ## Таблицы
 
 ## Цитаты
